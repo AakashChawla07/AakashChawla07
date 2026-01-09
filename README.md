@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer and Video Editor
 ----------------------------------
 
-Hello! I’m Aakash - a backend developer constantly learning, experimenting, and exploring how backend systems are designed and built.
+Hello! I’m Aakash - a backend developer constantly learning, experimenting, and exploring how backend systems are designed and built. I primarily work with Python and Java, and I’m currently diving deep into Spring Boot to strengthen my backend skill set and system-level understanding.
+
+Beyond code, I love video editing, filmmaking, and visual storytelling, and I’m always exploring new ideas-whether that’s tech, daily life, or where the two intersect.
 
 * ✉️  You can contact me at [aakashchawla0701@gmail.com](mailto:aakashchawla0701@gmail.com)
 * 🧠  I'm currently learning Springboot and Data Structures and Algorithms
