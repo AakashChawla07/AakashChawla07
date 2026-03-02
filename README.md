@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aakash Chawla
 ======================================================================================================================================
 
-Backend Developer and Video Editor
+Backend Developer
 ----------------------------------
 
 Hello! I’m Aakash - a backend developer constantly learning, experimenting, and exploring how backend systems are designed and built. I primarily work with Python and Java, and I’m currently diving deep into Spring Boot to strengthen my backend skill set and system-level understanding.
